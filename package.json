@@ -1,0 +1,20 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "This Repo is all about creating my own portfolio using some cool JS Packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codewithsanjeev/portfolio.git"
+  },
+  "keywords": [],
+  "author": "Sanjeev Pratap Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codewithsanjeev/portfolio/issues"
+  },
+  "homepage": "https://github.com/codewithsanjeev/portfolio#readme"
+}
